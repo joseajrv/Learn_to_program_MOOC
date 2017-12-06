@@ -11,4 +11,8 @@ Write the functions and complete the bodies of functions.
 Assignment 2: DNA Sequences
 Write the functions and complete the bodies of functions.
 
+#File: a3.py
+Assignment 3: Word Search Game
+Write the functions.
+
 Files and descriptions from the "Crafting Quality Code" course:
