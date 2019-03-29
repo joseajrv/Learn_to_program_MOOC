@@ -15,4 +15,6 @@ Write the functions and complete the bodies of functions.
 Assignment 3: Word Search Game
 Write the functions.
 
+#File: Peer-graded assignment folder
+
 Files and descriptions from the "Crafting Quality Code" course:
